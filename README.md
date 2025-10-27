@@ -8,6 +8,4 @@
 
 
 ^
-|
-|
 this will do 😢
