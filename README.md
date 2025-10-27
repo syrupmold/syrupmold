@@ -4,7 +4,7 @@
 
 [![NoSkid Verification](https://noskid.today/badge/100x30/?repo=syrupmold/syrupmold)](https://noskid.today)
 
-[![Alt NoSkidVerification](https://raw.githubusercontent.com/syrupmold/syrupmold/main/noskid/cert_02766.png)](https://noskid.today)
+[![Alt NoSkidVerification](https://raw.githubusercontent.com/syrupmold/syrupmold/main/noskid/ce.png)](https://noskid.today)
 
 
 ^
