@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack
 
 ```bash
-$ echo "Rapid pivots, zero friction"
+$ echo "you only live once"
 > Hosting: cPanel | SSH | Apache/LiteSpeed
 > Languages: Python | Lua | HTML/CSS
 > Projects: Roblox Game | Neocities | Website | 
