@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-> engineer of [gay fallout]  
+> engineer of [fallout.gay]  
 > made [Buggy websites and even buggier games]  
 > 🛠️ Fluent in [Python and Lua/Luau. Currently learning Javascript]
 
